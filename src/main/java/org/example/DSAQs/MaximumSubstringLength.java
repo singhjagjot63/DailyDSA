@@ -1,4 +1,4 @@
-package org.example;
+package org.example.DSAQs;
 
 import java.util.Arrays;
 
